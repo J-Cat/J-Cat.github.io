@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49f3b6318446921866265dddcd4e3c92",
+    "revision": "88bbc387abb025c3cc21358a95174472",
     "url": "/crafty/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crafty/static/css/10.4d723b5a.chunk.css"
   },
   {
-    "revision": "9e0e11fbab3881e08346",
+    "revision": "aeeb16283f517423452c",
     "url": "/crafty/static/css/main.dbf91aed.chunk.css"
   },
   {
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crafty/static/js/99.5575ffac.chunk.js"
   },
   {
-    "revision": "9e0e11fbab3881e08346",
-    "url": "/crafty/static/js/main.1d9a0d51.chunk.js"
+    "revision": "aeeb16283f517423452c",
+    "url": "/crafty/static/js/main.d73239cf.chunk.js"
   },
   {
     "revision": "d6a3bc298bda5cc5bc7a",
