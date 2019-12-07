@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52d4b1e3c93642f86ff8d738c2ada461",
+    "revision": "49f3b6318446921866265dddcd4e3c92",
     "url": "/crafty/index.html"
   },
   {
-    "revision": "e95c6d62abb3e36ba74e",
+    "revision": "f06c4a62fce3bf1ec0c5",
     "url": "/crafty/static/css/10.4d723b5a.chunk.css"
   },
   {
-    "revision": "a4f4fb8c0c15c1db78c5",
+    "revision": "9e0e11fbab3881e08346",
     "url": "/crafty/static/css/main.dbf91aed.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crafty/static/js/1.07978d95.chunk.js"
   },
   {
-    "revision": "e95c6d62abb3e36ba74e",
-    "url": "/crafty/static/js/10.3f3401e8.chunk.js"
+    "revision": "f06c4a62fce3bf1ec0c5",
+    "url": "/crafty/static/js/10.96c85c4a.chunk.js"
   },
   {
     "revision": "74d114197aac9aa641e6",
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crafty/static/js/99.5575ffac.chunk.js"
   },
   {
-    "revision": "a4f4fb8c0c15c1db78c5",
-    "url": "/crafty/static/js/main.32b847b8.chunk.js"
+    "revision": "9e0e11fbab3881e08346",
+    "url": "/crafty/static/js/main.1d9a0d51.chunk.js"
   },
   {
     "revision": "d6a3bc298bda5cc5bc7a",
