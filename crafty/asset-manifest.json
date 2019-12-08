@@ -16,9 +16,9 @@
     "static/js/6.01c68b49.chunk.js.map": "https://github.cataford.com/crafty/static/js/6.01c68b49.chunk.js.map",
     "static/js/7.83de0835.chunk.js": "https://github.cataford.com/crafty/static/js/7.83de0835.chunk.js",
     "static/js/7.83de0835.chunk.js.map": "https://github.cataford.com/crafty/static/js/7.83de0835.chunk.js.map",
-    "main.css": "https://github.cataford.com/crafty/static/css/main.cd69fc11.chunk.css",
-    "main.js": "https://github.cataford.com/crafty/static/js/main.3a6f0592.chunk.js",
-    "main.js.map": "https://github.cataford.com/crafty/static/js/main.3a6f0592.chunk.js.map",
+    "main.css": "https://github.cataford.com/crafty/static/css/main.3b6a4501.chunk.css",
+    "main.js": "https://github.cataford.com/crafty/static/js/main.c6a7171a.chunk.js",
+    "main.js.map": "https://github.cataford.com/crafty/static/js/main.c6a7171a.chunk.js.map",
     "runtime-main.js": "https://github.cataford.com/crafty/static/js/runtime-main.3d348d39.js",
     "runtime-main.js.map": "https://github.cataford.com/crafty/static/js/runtime-main.3d348d39.js.map",
     "static/css/10.4d723b5a.chunk.css": "https://github.cataford.com/crafty/static/css/10.4d723b5a.chunk.css",
@@ -203,10 +203,10 @@
     "static/js/99.d7863a9f.chunk.js": "https://github.cataford.com/crafty/static/js/99.d7863a9f.chunk.js",
     "static/js/99.d7863a9f.chunk.js.map": "https://github.cataford.com/crafty/static/js/99.d7863a9f.chunk.js.map",
     "index.html": "https://github.cataford.com/crafty/index.html",
-    "precache-manifest.d0390e8419184b97e79d942aecea2b08.js": "https://github.cataford.com/crafty/precache-manifest.d0390e8419184b97e79d942aecea2b08.js",
+    "precache-manifest.137cfe672e1cd5b120b036ec6e12d12d.js": "https://github.cataford.com/crafty/precache-manifest.137cfe672e1cd5b120b036ec6e12d12d.js",
     "service-worker.js": "https://github.cataford.com/crafty/service-worker.js",
     "static/css/10.4d723b5a.chunk.css.map": "https://github.cataford.com/crafty/static/css/10.4d723b5a.chunk.css.map",
-    "static/css/main.cd69fc11.chunk.css.map": "https://github.cataford.com/crafty/static/css/main.cd69fc11.chunk.css.map",
+    "static/css/main.3b6a4501.chunk.css.map": "https://github.cataford.com/crafty/static/css/main.3b6a4501.chunk.css.map",
     "static/media/ios-add-circle-outline.svg": "https://github.cataford.com/crafty/static/media/ios-add-circle-outline.e3a9f2f6.svg",
     "static/media/ios-add-circle.svg": "https://github.cataford.com/crafty/static/media/ios-add-circle.25f2a81b.svg",
     "static/media/ios-add.svg": "https://github.cataford.com/crafty/static/media/ios-add.2cb95301.svg",
@@ -908,7 +908,7 @@
     "static/js/runtime-main.3d348d39.js",
     "static/css/10.4d723b5a.chunk.css",
     "static/js/10.441cf403.chunk.js",
-    "static/css/main.cd69fc11.chunk.css",
-    "static/js/main.3a6f0592.chunk.js"
+    "static/css/main.3b6a4501.chunk.css",
+    "static/js/main.c6a7171a.chunk.js"
   ]
 }
