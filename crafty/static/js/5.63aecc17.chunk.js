@@ -1,2 +1,0 @@
-(this["webpackJsonpcrafty-control"]=this["webpackJsonpcrafty-control"]||[]).push([[5],{203:function(n,t,o){"use strict";o.r(t),o.d(t,"startStatusTap",(function(){return c}));var e=o(26),c=(o(5),function(){var n=window;n.addEventListener("statusTap",(function(){Object(e.g)((function(){var t=n.innerWidth,o=n.innerHeight,c=document.elementFromPoint(t/2,o/2);if(c){var r=c.closest("ion-content");r&&r.componentOnReady().then((function(){Object(e.m)((function(){return r.scrollToTop(300)}))}))}}))}))})}}]);
-//# sourceMappingURL=5.63aecc17.chunk.js.map

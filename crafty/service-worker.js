@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://github.cataford.com/crafty/precache-manifest.137cfe672e1cd5b120b036ec6e12d12d.js"
+  "https://github.cataford.com/crafty/precache-manifest.473b13548ba3f6f8fa255187d6af62f9.js"
 );
 
 self.addEventListener('message', (event) => {
