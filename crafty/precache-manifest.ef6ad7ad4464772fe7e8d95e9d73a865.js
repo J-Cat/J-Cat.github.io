@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ff511e6eb1a514f4363913625e0f76f",
+    "revision": "7682b7c9fc8203ae1a7b7dee2283456f",
     "url": "https://github.cataford.com/crafty/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://github.cataford.com/crafty/static/css/10.4d723b5a.chunk.css"
   },
   {
-    "revision": "64a09d574b86a039a8a7",
+    "revision": "3065f0d880a224d7bab1",
     "url": "https://github.cataford.com/crafty/static/css/main.fca1483f.chunk.css"
   },
   {
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://github.cataford.com/crafty/static/js/99.35c81997.chunk.js"
   },
   {
-    "revision": "64a09d574b86a039a8a7",
-    "url": "https://github.cataford.com/crafty/static/js/main.3b51fc96.chunk.js"
+    "revision": "3065f0d880a224d7bab1",
+    "url": "https://github.cataford.com/crafty/static/js/main.6e902f85.chunk.js"
   },
   {
     "revision": "33ca78e61011b49ec9d9",
