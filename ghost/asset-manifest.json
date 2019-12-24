@@ -17,8 +17,8 @@
     "static/js/7.425dcf29.chunk.js": "https://www.jcatvapes.com/ghost/static/js/7.425dcf29.chunk.js",
     "static/js/7.425dcf29.chunk.js.map": "https://www.jcatvapes.com/ghost/static/js/7.425dcf29.chunk.js.map",
     "main.css": "https://www.jcatvapes.com/ghost/static/css/main.f0a65d14.chunk.css",
-    "main.js": "https://www.jcatvapes.com/ghost/static/js/main.e0c3a7e1.chunk.js",
-    "main.js.map": "https://www.jcatvapes.com/ghost/static/js/main.e0c3a7e1.chunk.js.map",
+    "main.js": "https://www.jcatvapes.com/ghost/static/js/main.aadc73c1.chunk.js",
+    "main.js.map": "https://www.jcatvapes.com/ghost/static/js/main.aadc73c1.chunk.js.map",
     "runtime-main.js": "https://www.jcatvapes.com/ghost/static/js/runtime-main.4f51cd94.js",
     "runtime-main.js.map": "https://www.jcatvapes.com/ghost/static/js/runtime-main.4f51cd94.js.map",
     "static/css/10.4d723b5a.chunk.css": "https://www.jcatvapes.com/ghost/static/css/10.4d723b5a.chunk.css",
@@ -203,7 +203,7 @@
     "static/js/99.f46166b0.chunk.js": "https://www.jcatvapes.com/ghost/static/js/99.f46166b0.chunk.js",
     "static/js/99.f46166b0.chunk.js.map": "https://www.jcatvapes.com/ghost/static/js/99.f46166b0.chunk.js.map",
     "index.html": "https://www.jcatvapes.com/ghost/index.html",
-    "precache-manifest.e396770d7465c885449d9488f21cbc42.js": "https://www.jcatvapes.com/ghost/precache-manifest.e396770d7465c885449d9488f21cbc42.js",
+    "precache-manifest.0f7e8c93eb8f053c08eb1639cc8cd1fd.js": "https://www.jcatvapes.com/ghost/precache-manifest.0f7e8c93eb8f053c08eb1639cc8cd1fd.js",
     "service-worker.js": "https://www.jcatvapes.com/ghost/service-worker.js",
     "static/css/10.4d723b5a.chunk.css.map": "https://www.jcatvapes.com/ghost/static/css/10.4d723b5a.chunk.css.map",
     "static/css/main.f0a65d14.chunk.css.map": "https://www.jcatvapes.com/ghost/static/css/main.f0a65d14.chunk.css.map",
@@ -910,6 +910,6 @@
     "static/css/10.4d723b5a.chunk.css",
     "static/js/10.e3601cdf.chunk.js",
     "static/css/main.f0a65d14.chunk.css",
-    "static/js/main.e0c3a7e1.chunk.js"
+    "static/js/main.aadc73c1.chunk.js"
   ]
 }
