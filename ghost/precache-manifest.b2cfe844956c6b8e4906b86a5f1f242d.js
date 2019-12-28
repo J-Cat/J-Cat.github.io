@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b121d634673bde822177f9c3fcac39c0",
+    "revision": "99b53fbf805e9f959c13330a0b2d2ca3",
     "url": "https://www.jcatvapes.com/ghost/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.jcatvapes.com/ghost/static/css/10.4d723b5a.chunk.css"
   },
   {
-    "revision": "97d09cd71f43c2c3b054",
-    "url": "https://www.jcatvapes.com/ghost/static/css/main.9cbfdca1.chunk.css"
+    "revision": "823d9c8bf96df5316915",
+    "url": "https://www.jcatvapes.com/ghost/static/css/main.ce93c1c1.chunk.css"
   },
   {
     "revision": "cc44ea3a9b6fbd410d2a",
@@ -404,8 +404,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://www.jcatvapes.com/ghost/static/js/99.f46166b0.chunk.js"
   },
   {
-    "revision": "97d09cd71f43c2c3b054",
-    "url": "https://www.jcatvapes.com/ghost/static/js/main.68751953.chunk.js"
+    "revision": "823d9c8bf96df5316915",
+    "url": "https://www.jcatvapes.com/ghost/static/js/main.cbec9da5.chunk.js"
   },
   {
     "revision": "4ae001c83eab37795113",
