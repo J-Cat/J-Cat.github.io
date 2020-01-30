@@ -3,15 +3,14 @@
   "name": "Ghost MV1 Control",
   "icons": [
     {
-      "src": "assets/icon/favicon.png",
-      "sizes": "144x144 64x64 32x32 24x24 16x16",
+      "src": "assets/manifest-icon-192.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "assets/icon/icon.png",
-      "type": "image/png",
+      "src": "assets/manifest-icon-512.png",
       "sizes": "512x512",
-      "purpose": "maskable"
+      "type": "image/png"
     }
   ],
   "start_url": "/ghost/",
