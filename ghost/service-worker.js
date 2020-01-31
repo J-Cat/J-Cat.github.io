@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://www.jcatvapes.com/ghost/precache-manifest.b2e6c5b7292d5f684438674fe63fa9e9.js"
+  "https://www.jcatvapes.com/ghost/precache-manifest.9a2a2ff15103a3ce6cf4cc4d1bf4b6b5.js"
 );
 
 self.addEventListener('message', (event) => {
